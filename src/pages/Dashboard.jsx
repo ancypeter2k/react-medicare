@@ -331,7 +331,7 @@ const Dashboard = () => {
               </div>
 
               <div className="flex justify-end mt-6">
-                <button className="bg-[#a0aec0] text-[#111c2d] px-8 py-2 rounded font-bold text-sm hover:bg-white transition-colors">
+                <button className="bg-[#01C0C8] text-gray-100 px-8 py-2 rounded font-bold text-sm hover:bg-white transition-colors">
                   Save
                 </button>
               </div>
